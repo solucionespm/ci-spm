@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Saludos to CodeIgniter</title>
+	<title>Saludos to spm</title>
 
 	<style type="text/css">
 
